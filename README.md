@@ -4,7 +4,7 @@ This checklist is designed for security researchers, penetration testers, and de
 
 > 📢 **Read the deep-dive article on LinkedIn:**  
 > I’ve published a detailed write-up explaining real-world cache vulnerabilities, case studies, and testing techniques.  
-> 👉 [Read on LinkedIn](https://www.linkedin.com/in/your-post-url-here)
+> 👉 [Read on LinkedIn]([https://www.linkedin.com/in/your-post-url-here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7346091927957557249/))
 
 *Version: 1.0 (July 2, 2025)*  
 *Glossary*:  
