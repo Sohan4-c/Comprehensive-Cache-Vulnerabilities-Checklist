@@ -2,9 +2,11 @@
 
 This checklist is designed for security researchers, penetration testers, and developers to identify and assess cache-related vulnerabilities in web applications, including **web cache poisoning**, **cache deception**, **DNS cache poisoning**, and **CDN-specific attacks**. It also provides mitigation guidance for securing caching systems. Ideal for GitHub repositories, CI/CD pipelines, or team-based audits. Fork and enhance based on your findings!
 
-> 📢 **Read the deep-dive article on LinkedIn:**  
-> I’ve published a detailed write-up explaining real-world cache vulnerabilities, case studies, and testing techniques.  
-> 👉 [Read on LinkedIn]([https://www.linkedin.com/in/your-post-url-here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7346091927957557249/))
+
+📢 **Read the deep-dive article on LinkedIn:**  
+I’ve published a detailed write-up explaining real-world cache vulnerabilities, case studies, and testing techniques.  
+👉 [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7346091927957557249/)
+
 
 *Version: 1.0 (July 2, 2025)*  
 *Glossary*:  
